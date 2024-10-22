@@ -1,0 +1,117 @@
+/* General Styling for Shopping Cart */
+.shopping-cart {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+/* Header Section */
+h5 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+p {
+  font-size: 14px;
+  color: #777;
+}
+
+.delivery-notice {
+  background-color: #f9e8a2; /* Light yellow background */
+  text-align: center;
+  font-size: 14px;
+}
+
+/* Product Item Styling */
+.product-item {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  padding: 15px;
+}
+
+.product-image {
+  width: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.price {
+  font-size: 16px;
+  font-weight: bold;
+  color: #000;
+}
+
+/* Product Options (Color, Size, Qty) */
+.product-options {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; /* Center alignment */
+}
+
+.product-options label {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.product-options p, .form-control {
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+/* Adjust size dropdown */
+.size-select {
+  width: 80px ; 
+  margin-bottom: 0px; /* Add some space below */
+  margin-top: px;
+  margin-left: 100px;
+}
+
+.color-select{
+  margin-left: 40px;
+}
+
+/* Quantity Control */
+.quantity-control {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center alignment */
+  padding-top: 10px;
+}
+
+.quantity-control button {
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  
+}
+
+.quantity {
+  margin: 0 10px;
+}
+
+/* Checkout Section */
+.checkout-section {
+  background-color: #ffffff;
+  border-top: 2px solid #ddd;
+  padding-top: 15px;
+}
+.checkout-section h5 {
+  font-size: 12px;
+}
+
+.checkout-button {
+  width: 100%;
+  font-size: 18px;
+  padding: 10px;
+  background-color: #3498DB !important;
+  color: white !important;
+  border-radius: 5px;
+}
+
+.checkout-button:hover {
+  background-color: #0056b3;
+}

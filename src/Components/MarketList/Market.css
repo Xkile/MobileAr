@@ -1,0 +1,36 @@
+h2 {
+  font-weight: bold;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+.card {
+  text-align: center;
+}
+
+.form-control {
+  border-radius: 20px;
+}
+
+.container {
+  max-width: 500px;
+}
+
+.header-section{
+  background-color: #A07BD2 !important;
+}
+.Heading-market{
+  margin-right: 100px;
+}
+
+/* Custom styles for smaller text */
+.small-card-title {
+  font-size: 13px;  /* Reduce the font size for the title */
+}
+
+.small-card-text {
+  font-size: 15px;  /* Reduce the font size for the text */
+}
+

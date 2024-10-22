@@ -1,0 +1,38 @@
+.payment-page {
+    margin-top: 30px;
+  }
+  
+  .shipping-section,
+  .payment-section {
+    margin-bottom: 20px;
+  }
+  
+  .add-address-button {
+    width: 100%;
+  }
+  
+  .total-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .Security-Code{
+    width: 150px;
+  }
+
+  .total-section p{
+    font-size: 15px;
+    color: black;
+    line-height: 3px;
+    margin-top: 10px;
+  }
+
+  .total-section button{
+    background-color: #3498DB;
+    color: white;
+    width: 140px;
+  }
+  #labelpayment p{
+    color: black ;
+  }

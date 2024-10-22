@@ -1,0 +1,54 @@
+.signup-button {
+    background-color: #5710D1 !important;
+    border: none;
+    color: white !important;
+    padding: 10px 20px;
+    font-size: 18px;
+    width: 343px;
+    border-radius: 20px !important;
+   
+    
+  }
+
+  #LoginLink a {
+    color:  #5710D1 !important;
+    text-decoration-line: none !important;
+    
+  }
+
+  .forgotPassword a {
+    color:  #5710D1 !important;
+    text-decoration: none;
+  
+  }
+  
+  .header-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: -35px ;
+    margin-top: 10px;
+  }
+  
+  .header-col-left,
+  .header-col-center,
+  .header-col-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-col-center {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .header-col-left img,
+  .header-col-right p {
+    margin: 0;
+  }
+  
+  .signup-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+  }

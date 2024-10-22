@@ -1,0 +1,52 @@
+.confirmation-page {
+    margin-top: 30px;
+    background-color: white;
+  }
+  
+  .header-section{
+    background-color: white;
+  }
+  .header-section img {
+    margin-top: 10px;
+  }
+  
+  .header-section h5{
+    color: black;
+  }
+  .checkmark-icon {
+    width: 40px;
+    height: 40px;
+  }
+  
+  h5 {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  p {
+    margin: 0;
+    font-size: 0.9rem;
+  }
+  
+  .card-body {
+    background-color: #f9f9f9;
+  }
+  
+  .continue-button {
+    width: 40%;
+    margin-left: 200px;
+    margin-top: 30px;
+    background-color: #3498DB;
+    color: white;
+  }
+  
+  h6 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  
+  .card {
+    margin-bottom: 10px;
+  }
+  

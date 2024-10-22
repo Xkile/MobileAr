@@ -1,0 +1,25 @@
+.free-trial-container {
+    background-color: #A07BD2;
+    height: 812px;
+  }
+  
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  
+  .logo-white {
+    filter: invert(1);
+    width: 150px; /* Adjust this value to change the size of the logo */
+  }
+  
+  .d-flex {
+    height: calc(100% - 100px); /* Adjust this to center FreeSubscription vertically, considering the space taken by the logo */
+  }
+  #freesubcard{
+    padding-bottom: 150px;
+  }
+
+  
